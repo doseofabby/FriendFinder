@@ -1,5 +1,4 @@
-// LOAD DATA
-const friendData = require("../data/friends");
+const friendData = require("../data/friend");
 
 
 // ROUTING
